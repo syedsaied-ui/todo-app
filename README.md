@@ -1,4 +1,4 @@
-# Todo App
+# ✅ Todo App
 
 A modern Todo application built using React.
 
@@ -14,14 +14,18 @@ A modern Todo application built using React.
 
 ## 📦 Installation
 
-1. Clone the repository
-2. Install dependencies:
+### 1. Clone the repository
+### 2. Install dependencies:
 
+```bash
    npm install
+```
 
-3. Start development server:
+### 3. Start development server:
 
+```bash
    npm run dev
+```
 
 ## 🌐 Usage
 After running, open:
